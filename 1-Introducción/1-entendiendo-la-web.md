@@ -54,6 +54,7 @@ La web, también conocida como **World Wide Web** (WWW), es un sistema de inform
 
 
 
+[INICIO](/README.md)  
 [Siguiente lección](2-entendiendo-html-css.md)  
 
 
