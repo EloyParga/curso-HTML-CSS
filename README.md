@@ -11,3 +11,10 @@ En este repositorio encontraras teoria , ejercicios y proyectos.
 - [Entendidendo la web](1-Introducción/1-entendiendo-la-web.md)
 - [Entendidendo HTML y CSS](1-Introducción/2-entendiendo-html-css.md)
 - [Editor de Codigo](1-Introducción/3-editor-codigo.md)
+
+
+## Referencia
+
+<span style="background-color: orange; color:black">Todo este contenido esta estructurado en base al video adjuntado a continuacion (soydalto)</spam>
+
+[Video](https://youtu.be/ELSm-G201Ls?si=yRgupY7NI-ktVo6g)

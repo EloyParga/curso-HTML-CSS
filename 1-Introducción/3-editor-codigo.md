@@ -74,4 +74,4 @@ Para instalar una extensión:
 
 [Lección Anterior](2-entendiendo-html-css.md)  
 
-[Siguiente TEMA]()  
+[Siguiente TEMA](/2-HTML%20Basic/1-estructura-de-una-etiqueta.md)  
