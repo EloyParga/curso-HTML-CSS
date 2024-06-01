@@ -1,5 +1,5 @@
 <img src="image.png" style="width:100%"></img>
-# CURSO DE HTMKL Y CSS
+# CURSO DE HTML Y CSS
 
 En este curso se transmitiran los conocimientos necesario para crear una web con html y css, aprenderas desde lo mas básico a lo más avanzado.
 
