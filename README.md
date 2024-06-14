@@ -1,5 +1,5 @@
 <img src="image.png" style="width:100%"></img>
-# CURSO DE HTML Y CSS
+# CURSO DE HTML5 Y CSS3
 
 En este curso se transmitiran los conocimientos necesario para crear una web con html y css, aprenderas desde lo mas básico a lo más avanzado.
 
@@ -13,8 +13,3 @@ En este repositorio encontraras teoria , ejercicios y proyectos.
 - [Editor de Codigo](1-Introducción/3-editor-codigo.md)
 
 
-## Referencia
-
-<span style="background-color: orange; color:black">Todo este contenido esta estructurado en base al video adjuntado a continuacion (soydalto)</spam>
-
-[Video](https://youtu.be/ELSm-G201Ls?si=yRgupY7NI-ktVo6g)

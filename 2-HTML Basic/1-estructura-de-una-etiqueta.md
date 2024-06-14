@@ -7,7 +7,7 @@ Las etiquetas HTML son los componentes básicos de un documento HTML. Cada etiqu
 ### Componentes de una Etiqueta HTML
 
 1. **Etiqueta de Apertura:**
-   - La etiqueta de apertura marca el comienzo de un elemento HTML. Está formada por el nombre de la etiqueta encerrado entre corchetes angulares (`<>`).
+   - La etiqueta de apertura marca el comienzo de un elemento HTML. Está formada por el nombre de la etiqueta encerrado entre corchetes angulares `<>`.
    - **Sintaxis:**
      ```html
      <nombreDeEtiqueta>
