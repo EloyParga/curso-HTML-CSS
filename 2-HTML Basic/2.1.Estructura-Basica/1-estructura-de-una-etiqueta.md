@@ -1,4 +1,4 @@
-# ESTRUCTURA DE UNA ETIQUETA HTML
+# 2.1 ESTRUCTURA BASICA
 
 ## Estructura de una Etiqueta HTML
 
@@ -123,6 +123,7 @@ Entender la estructura de una etiqueta HTML es fundamental para crear páginas w
 
 ##
 
-[Lección Anterior](/1-Introducción/3-editor-codigo.md)  
+[Lección Anterior](/1-Introducción/4-concepto-basicos-git.md)  
 
-[Siguiente Leccón](2-estructura-pagina-web.md)  
+[NEXT](2-estructura-pagina-web.md)
+

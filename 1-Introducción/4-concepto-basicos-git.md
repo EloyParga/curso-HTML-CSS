@@ -108,10 +108,9 @@ GitHub Projects proporciona tableros Kanban para organizar y planificar el traba
 
 ---
 
-Estas son las bases teóricas necesarias para abordar el examen de GitHub para programadores web. Asegúrate de entender cada concepto y práctica para tener éxito en el examen.
 
-### Hotkeys
-- W: Yes, Continue
-- A: Alt
-- S: Explain
-- D: Iterate, Improve, Evolve
+[Lección Anterior](3-editor-codigo.md)
+
+[PRACTICA T1](Ejercicios-T1/Enunciado.md)
+
+[TEMA 2](/2-HTML%20Basic/2.1.Estructura-Basica/1-estructura-de-una-etiqueta.md)

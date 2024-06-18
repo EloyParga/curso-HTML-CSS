@@ -1,7 +1,8 @@
-# EJERCICIOS 2.1
+# EJERCICIOS 2.1 
 
 ### DESCRIPCION DE LOS EJERCICIOS:
-Cada ejercicio se realizara en archivos diferentes con el nombre "index-X.html" Donde "X" es el numero del ejercicio.
+Cada ejercicio se realizara en archivos diferentes con el nombre `index-X-n.html` Donde ``X`` es el numero de practica y ``n`` el del ejercicio.
+
 Cada ejercicio es procedural, es decir el dos es una ampliacion del 1 , el 3 una ampliacion de 2 y así consecutivamente, por lo que es obligatorio hacerlos en orden.
 
 ## Ejercicio 1: Creación de una Página Básica

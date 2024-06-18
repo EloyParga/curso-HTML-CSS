@@ -144,4 +144,4 @@ Conocer cómo funcionan HTML y CSS es fundamental para desarrollar y diseñar si
 
 [Lección Anterior](1-entendiendo-la-web.md)  
 
-[Siguiente lección](3-editor-codigo.md)  
+[Lección 1.3](3-editor-codigo.md)  
