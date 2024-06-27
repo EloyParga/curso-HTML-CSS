@@ -140,9 +140,9 @@ Esta estructura es la base de cualquier página web y entenderla es crucial para
 
 [BACK](1-estructura-de-una-etiqueta.md)  
 
-[Practica 1](../Practica-1/Ejercicios-2-1.md) 
+[Practica Unidad 2.1](../2.1.Estructura-Basica/Practica-2.1/Enunciado.md) 
 
-[Lección 2.2](../2.2.párrafos-y-encabezados.md)  
+[Lección 2.2](../2.2.Parrafos-Y-Encabezados/2.2.párrafos-y-encabezados.md)  
 
 
 
