@@ -13,4 +13,4 @@ En este repositorio encontraras teoria , ejercicios y proyectos.
 - [Editor de Codigo](1-Introducción/3-editor-codigo.md)
 
 
-#### ALUMNO: @MarinaGonzalezGutierrez
+
